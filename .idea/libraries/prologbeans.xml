@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="prologbeans">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/prologbeans.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
